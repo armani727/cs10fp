@@ -1,0 +1,52 @@
+html {
+  background-color: rgb(63, 58, 58);
+}
+
+.center {
+  text-align: center;
+}
+
+body {
+  margin: 25px auto;
+  color: aliceblue;
+  width: 600px;
+  background-color: gray;
+  border-radius: 50px;
+  padding: 25px 25px 50px;
+}
+
+ul {
+  width: fit-content;
+  margin: 20px auto;
+}
+
+.prelist {
+  text-align: center;
+  color: rgb(214, 20, 6);
+  font-weight: bold;
+  font-size: large;
+}
+
+a {
+  color: rgb(0, 136, 255);
+}
+
+a:hover {
+  color: rgb(214, 20, 6);
+}
+
+.header {
+  text-align: center;
+  color: rgb(47, 236, 236);
+  text-decoration: underline;
+}
+
+.fact {
+  text-align: center;
+  color: rgb(47, 236, 236);
+}
+
+.manhwa {
+  border: solid red;
+  height: ;
+}
